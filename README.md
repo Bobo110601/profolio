@@ -13,5 +13,5 @@ Hello
 ### Project 2: Data Visualization Dashboard using Dash
 
 ## Contact
-
+email via {zixiaol4@illiois.edu}
 
